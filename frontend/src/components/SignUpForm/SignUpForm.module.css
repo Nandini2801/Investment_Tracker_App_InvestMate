@@ -1,0 +1,17 @@
+.form_container {
+  width: 100%;
+  padding: 1rem;
+}
+
+.link_container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding-top: 10px;
+}
+
+.link {
+  color: #1976d2;
+  text-decoration: underline;
+  padding-left: 2px;
+}
